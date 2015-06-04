@@ -20,7 +20,7 @@ ini_set('display_startup_errors',1);
 error_reporting(-1);
 
 $title = "Nagios && SCOM Dashboard";
-$organization = "Eesti Haigekassa";
+$organization = "Your Organization";
 #Set the Nagios servers url, where is the php script that is used to generated json
 $json_url = "http://nagiosSRVip/json.php";
 ?>
