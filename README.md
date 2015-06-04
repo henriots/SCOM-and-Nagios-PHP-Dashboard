@@ -7,6 +7,8 @@ This is the first release of this dashboard and as I'm not very good developer, 
 #Picture example of the dashboard
 ![Alt text](http://i.imgur.com/BUJmphK.png "SCOM and Nagios Dashboard")
 
+#Installation
+
 #Credits
 Big thank you to:
 - [Simple PHP 5 Nagios Dashboard by RaymiiOrg] - GPLv3
