@@ -66,7 +66,26 @@ require_once("./functions.php");
 		
     </style>
 </head>
+<script>
+
+function pageScroll() {
+    	window.scrollBy(0,200); // horizontal and vertical scroll increments
+    	scrolldelay = setTimeout('pageScroll()',10000); // scrolls every 100 milliseconds
+		
+};
+window.onscroll = function(ev) {
+    if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
+		clearTimeout(scrolldelay);
+        location.reload();
+		window.scrollTo(0, 0);
+		setTimeout("",3000);
+    }
+};
+</script>
 <body >
+	<script>
+		setTimeout(pageScroll(),1000);
+	</script>
 	<div class="row">
         <div class="col-md-12">
         <?php
