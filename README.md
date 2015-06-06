@@ -10,7 +10,7 @@ This is the first release of this dashboard and as I'm not very good developer, 
 #Installation
 
 #Credits
-Big thank you to:
+Big thanks to:
 - [Simple PHP 5 Nagios Dashboard by RaymiiOrg] - GPLv3
 - [PHP Nagios JSON by Christian Lizell] - GPLv3
 - [Job van der Voort], Design
