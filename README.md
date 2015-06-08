@@ -20,6 +20,7 @@ SCOM
 $Data[Default='Not Present']/Context/DataItem/AlertName$|$Data[Default='Not Present']/Context/DataItem/ManagedEntityPath$|$Data[$Data[Default='Not Present']/Context/DataItem/LastModifiedLocal$|$Data[Default='Not Present']/Context/DataItem/Severity$|
 ```
  - Next you have configure your e-mail servers settings for PHP to connect to mailbox. There are 2 functions in "functions.php" ("email" and "critical_email_count") in which you have to set the settings.
+
 If you use Microsoft Exchange, you may run into problem with Kerberos authentication. To fix it, I used the following guide.
 #Credits
 Big thanks to:
