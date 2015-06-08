@@ -14,7 +14,7 @@ Nagios
  - In "config.php", change "json_url" variable to your json.php address (e.g. $json_url = "http://192.168.56.200/json.php";)
  - After you've done that, dashboard should start showing Nagios' host && service statuses.
 
- SCOM
+SCOM
  - Dashboard parses e-mail subject fields to show problems with hosts and services.
  - In SCOM, you have to make new E-mail notification channel and change e-mails subject format to:
 ```sh  
