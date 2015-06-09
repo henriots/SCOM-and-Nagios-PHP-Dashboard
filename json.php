@@ -3,9 +3,10 @@
 //
 // Script to parse Nagios status.dat and present it as JSON, to allow inclusion
 // of status info in a web page served from a separate machine.
-//
+// Original link to file: https://github.com/RaymiiOrg/simple-nagios-dashboard/blob/master/json.php
 // This code is just a RaymiiOrg modification of Jason Antman's statusXML.php available at
 // https://github.com/jantman/php-nagios-xml
+//
 //
 // +----------------------------------------------------------------------+
 // | Copyright (c) 2013 Christian Lizell.                                 |
