@@ -1,7 +1,7 @@
 <?php
 # Copyright (C) 2015 Henri Ots
 #
-# This code is a modification of Remy van Elst's config.php file available at https://github.com/RaymiiOrg/simple-nagios-dashboard/blob/master/functions.php
+# This code is a modification of Remy van Elst's functions.php file available at https://github.com/RaymiiOrg/simple-nagios-dashboard/blob/master/functions.php
 # Design footprint: Job van der Voort
 #
 # This program is free software: you can redistribute it and/or modify
