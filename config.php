@@ -1,7 +1,7 @@
 <?php
 # Copyright (C) 2015 Henri Ots
 #
-# Previous author: Remy van Elst    https://github.com/RaymiiOrg/simple-nagios-dashboard
+# This code is a modification of Remy van Elst config.php file. The project can be found from : https://github.com/RaymiiOrg/simple-nagios-dashboard
 # Design footprint: Job van der Voort
 #
 # This program is free software: you can redistribute it and/or modify
