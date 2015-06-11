@@ -95,7 +95,7 @@ require_once("./functions.php");
                     print(($criticals_count . " </b><br/>"));
 				}
                 if ($host_issue_count > 0) {
-                 print("Maas olevaid hoste: <b>" . $host_issue_count . "</b>" );
+                 print("Kriitilises seisus olevaid hoste: <b>" . $host_issue_count . "</b>" );
              } 
              print("<h2></div>");
          } elseif(($warnings_count) > 0) {
