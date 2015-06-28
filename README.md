@@ -4,7 +4,7 @@ This is simple PHP dashboard for Nagios and Microsoft System Center Operations M
 #About this project
 This is the first release of this dashboard and as I'm not very good developer, the code needs alot of tweaking. I am trying to update and fix it as much as possible. If you'd like to help me out, feel free to do so. Dashboard uses GPLv3 license.
 
-As I will be serving time in military for 11 months, development of this dashboard is halted.
+As I will be serving time in army for 11 months, development of this dashboard is halted.
 
 #Example of the dashboard
 ![Alt text](http://i.imgur.com/BUJmphK.png "SCOM and Nagios Dashboard")
