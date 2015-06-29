@@ -24,7 +24,7 @@ $Data[Default='Not Present']/Context/DataItem/AlertName$|$Data[Default='Not Pres
 ```
  - Next you have configure your e-mail servers settings for PHP to connect to mailbox. There are 2 functions in "functions.php" ("email" and "critical_email_count") in which you have to change the settings.
 
-If you use Microsoft Exchange, you may run into problem with Kerberos authentication. To fix it, I used the following [guide].
+As script only parses e-mail subject field, you do not have to follow following guide. If you use Microsoft Exchange, you may run into problem with Kerberos authentication. To fix it, I used the following [guide].
 #Credits
 Big thanks to:
 - [Simple PHP 5 Nagios Dashboard by RaymiiOrg] - GPLv3
