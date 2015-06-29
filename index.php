@@ -15,6 +15,8 @@
 # You should have received a copy of the GNU General Public License
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
 require_once("./functions.php");
+error_reporting(0);
+ini_set('display_errors', 0);
 ?>
 
 <!DOCTYPE html>
